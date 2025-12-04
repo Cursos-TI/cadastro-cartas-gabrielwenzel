@@ -2,6 +2,7 @@
 
     int main() {
  
+      
     char carta1[6];
     char carta2[6];
     char estado;
